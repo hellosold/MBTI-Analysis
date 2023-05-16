@@ -29,7 +29,7 @@ donwload from <a href="https://imsdb.com/">The Internet Movie Script Database (I
 
 ## Models
 ### MBTI 500
-[MBTI-500.py](MBTI-500.py)
+[MBTI-500.ipynb](MBTI-500.ipynb)
 <ol>
     <li>Donload, read the data. Check the number of rows, columns and expalin the understanding of the data. Then check are there any null posts in the data?</li>
     <li>Visualize the MBTI type distributions.</li>
