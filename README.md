@@ -53,7 +53,7 @@ print(accuracy)
 Firstly, we run a python script to parse the movie scripts, then we have two output files, they are 'Advengers_Endgame_parsed.txt' and 'Frozen_script_parsed.txt'.
 
 Secondly, we write two python program, 'parse_frozen.py' and 'parse_endgame.py' which will read the parsed file, and collect the scriopts of each character, store the result into output files. The out files are <span style="color:green"> csv</span>
-files. The file havr a header row "character" and "script". The example of the test data is shown below:
+files. The file has a header row "character" and "script". The example of the test data is shown below:
 
 <img src="https://hackmd.io/_uploads/HJyXgtWSh.png" alt="Frozen Script" width="400" height="200"></img>
 
@@ -66,15 +66,16 @@ It likely provides information about the characters' personalities, traits, and 
 
 The following shows our predictions of Frozen:
 
-![](https://hackmd.io/_uploads/By9mZKZSh.png)
+<img src="elsa_predicts.png" alt="elsa predict" width="700" height="400"></img>
 
 Take Elsa for example:
-<img src="https://hackmd.io/_uploads/H1EeMFWBn.png" alt="Elsa" width="100" height="100"></img>
 
-Based on our model Elsa is INFP.
-But on the website, the votes shows:
+<img src="Elsa.png" alt="Elsa" width="100" height="100"></img>
+
+Based on our model Elsa is INFP.<br>
+But on the website, the votes shows:<br>
 the highest vote is INFJ, then the seconded highest is ISTJ, the third vote is INTJ, the fourth vote is INFP...
-<img src="https://hackmd.io/_uploads/S12rfYWS3.png" alt="Elsa Votes" width="300" height="500"></img>
+<img src="elsa_votes.png" alt="Elsa Votes" width="300" height="500"></img>
 
 We think it all makes sense. Because the MBTI type is only a theoretical model, and the shaping and performance of characters are often determined by the subjective interpretation of creators and screenwriters. Everyone's understanding and perspective on roles will also vary due to personal experiences and prejudices. Therefore, when understanding and interpreting roles, we need to keep an open mind and realize that MBTI type is not an absolutely accurate and conclusive criterion.
 
