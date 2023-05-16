@@ -15,7 +15,7 @@ Train data:
 
 Test data:
 
-donwload from <a href="https://imsdb.com/">The Internet Movie Script Database (IMSDb)</a>
+download from <a href="https://imsdb.com/">The Internet Movie Script Database (IMSDb)</a>
 1. [Frozen](Frozen_script.txt)
 2. [Avengers: Endgame](Avengers_Endgame.pdf)
 
