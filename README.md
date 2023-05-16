@@ -31,7 +31,7 @@ download from <a href="https://imsdb.com/">The Internet Movie Script Database (I
 ### MBTI 500
 [MBTI-500.ipynb](MBTI-500.ipynb)
 <ol>
-    <li>Donload, read the data. Check the number of rows, columns and expalin the understanding of the data. Then check are there any null posts in the data?</li>
+    <li>Download, read the data. Check the number of rows, columns and expalin the understanding of the data. Then check are there any null posts in the data?</li>
     <li>Visualize the MBTI type distributions.</li>
     <li>Process the data by removing stop words, strmming words, and extracting linguistic features such as word frequency.</li>
     <li>Create bar charts of the top 20 words of all types. Then utilize wordcloud, a data visualization technique to present textual data in a visual and interactive manner, displays a collection of words, where the size of each word represents its frequency or importance in the given text.</li>
