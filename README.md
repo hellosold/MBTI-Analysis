@@ -55,7 +55,7 @@ Firstly, we run a python script to parse the movie scripts, then we have two out
 Secondly, we write two python program, 'parse_frozen.py' and 'parse_endgame.py' which will read the parsed file, and collect the scriopts of each character, store the result into output files. The out files are <span style="color:green"> csv</span>
 files. The file has a header row "character" and "script". The example of the test data is shown below:
 
-<img src="https://hackmd.io/_uploads/HJyXgtWSh.png" alt="Frozen Script" width="400" height="200"></img>
+<img src="frozen_script.png" alt="Frozen Script" width="400" height="200"></img>
 
 ## Predictions
 
@@ -66,7 +66,7 @@ It likely provides information about the characters' personalities, traits, and 
 
 The following shows our predictions of Frozen:
 
-<img src="elsa_predicts.png" alt="elsa predict" width="700" height="400"></img>
+<img src="elsa_predicts.png" alt="elsa predict" width="800" height="200"></img>
 
 Take Elsa for example:
 
